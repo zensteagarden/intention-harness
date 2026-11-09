@@ -35,7 +35,7 @@ I'm John Patrick Daly. I created The Intention Harness and I'm looking to work w
 
 Use this repository's [Discussions](https://github.com/zensteagarden/intention-harness/discussions) for collaboration inquiries and design conversations, or [Issues](https://github.com/zensteagarden/intention-harness/issues) for concrete questions and proposed improvements. Please do not post private or confidential information.
 
-Find me on [GitHub](https://github.com/zensteagarden).
+Find me on [X / Twitter: @deloosio](https://x.com/deloosio) or [GitHub](https://github.com/zensteagarden).
 
 ## Attribution and citation
 
